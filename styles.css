@@ -126,12 +126,12 @@ header.site.scrolled{border-color:var(--line);box-shadow:0 8px 30px -22px rgba(0
 .portrait .breath{
   position:absolute;inset:-9% -7% -7% -9%;z-index:0;
   background:radial-gradient(circle at 50% 45%,rgba(0,180,216,.62),rgba(0,114,188,.3) 60%,transparent 72%);
-  border-radius:46% 54% 50% 50%/52% 48% 52% 48%;
+  border-radius: 50%;
   animation:breathe 9s ease-in-out infinite;
 }
 .portrait .ring{
   position:absolute;inset:-4%;z-index:0;border:2px dashed var(--aqua);
-  border-radius:54% 46% 50% 50%/48% 52% 48% 52%;opacity:.6;
+  border-radius: 50%;opacity:.6;
   animation:spin 60s linear infinite;
 }
 .portrait img.main{
