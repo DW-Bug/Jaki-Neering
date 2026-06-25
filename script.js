@@ -25,7 +25,7 @@ panel.querySelectorAll('a').forEach(function (a) {
 
 // Trainings accordion (built from data to keep markup clean)
 var trainings = [
-  ["Best Practices for a Trans-Affirming Treatment Experience", "Practical, dignity-centered guidance for building intake, language, and care pathways that make trans and nonbinary clients feel genuinely welcome and safe."],
+  ["Best Practices for a Trans-Affirming Treatment Experience", "Practical, dignity-centered guidance on creating inclusive, affirming environments that help transgender and nonbinary clients feel genuinely welcomed, respected, and safe."],
   ["LGBTQ+ Competence in Treatment Settings", "Foundations of affirming care — terminology, common pitfalls, and the cultural humility that turns good intentions into consistently inclusive practice."],
   ["The Trauma of Growing Up LGBTQ+", "How minority stress, rejection, and concealment shape the nervous system over time, and what clinicians can do to support repair and resilience."],
   ["The Medicine of Congruence", "Why living in alignment with one's authentic self is profoundly healing, and how providers can become allies in that process of self-expression."],
