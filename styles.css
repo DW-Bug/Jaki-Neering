@@ -5,24 +5,24 @@
    ============================================================ */
 
 :root{
-  --deep-teal:#005A63;
-  --deep-teal-deep:#003F47;
-  --teal:#0072BC;
-  --teal-deep:#005490;
-  --aqua:#00B4D8;
-  --trans-blue:#3FC4EE;
-  --trans-blue-deep:#1FB2E2;
-  --trans-blue-soft:#D6F4FD;
-  --ink:#0E2A30;
+  --deep-teal:#003135;
+  --deep-teal-deep:#001F22;
+  --teal:#024950;
+  --teal-deep:#00363B;
+  --aqua:#0FA4AF;
+  --trans-blue:#AFDDE5;
+  --trans-blue-deep:#7FC9D5;
+  --trans-blue-soft:#F4FBFC;
+  --ink:#1D2D30;
   --cream:#FFFFFF;
   --warm-white:#FFFFFF;
-  --mist:#FFFFFF;
-  --seafoam:#DAF1F8;
-  --blush:#D8456B;
-  --blush-soft:#F6DEE4;
-  --line:#BCD9DE;
-  --text:#27393E;
-  --text-soft:#4F656B;
+  --mist:#F4FBFC;
+  --seafoam:#AFDDE5;
+  --blush:#964734;
+  --blush-soft:#F3E5DF;
+  --line:#C9E4E8;
+  --text:#2D3E42;
+  --text-soft:#5E7378;
 
   --ff-display:"Fraunces",Georgia,serif;
   --ff-body:"Mulish",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
@@ -30,8 +30,8 @@
   --maxw:1140px;
   --r-lg:28px;
   --r-md:18px;
-  --shadow:0 24px 58px -26px rgba(0,55,64,.5);
-  --shadow-sm:0 14px 36px -18px rgba(0,55,64,.42);
+  --shadow:0 24px 58px -26px rgba(0,49,53,.45);
+  --shadow-sm:0 14px 36px -18px rgba(0,49,53,.35);
 }
 
 *{box-sizing:border-box;}
