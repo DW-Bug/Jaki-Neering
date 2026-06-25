@@ -184,8 +184,19 @@ section{position:relative;}
 
 /* About */
 .about-grid{display:grid;grid-template-columns:1fr 1.15fr;gap:54px;align-items:start;}
-.about-media{position:relative;}
-.about-media img{border-radius:var(--r-lg);box-shadow:var(--shadow);width:100%;object-fit:cover;}
+.about-media{
+  position:relative;
+  max-width:420px;
+  margin:0 auto;
+}
+
+.about-media img{
+  border-radius:20px;
+  box-shadow:var(--shadow-sm);
+  width:100%;
+  height:auto;
+  object-fit:contain;
+}
 .about-media figcaption{font-size:.82rem;color:var(--deep-teal);margin-top:.7rem;font-style:italic;text-align:center;}
 .creds{list-style:none;margin:1.6rem 0 0;padding:0;display:grid;gap:.7rem;}
 .creds li{display:flex;gap:.7rem;align-items:flex-start;background:var(--cream);border:1px solid var(--line);border-radius:14px;padding:.85rem 1rem;font-weight:600;color:var(--ink);}
